@@ -6,7 +6,7 @@ export default function Home() {
     <main className={styles.main}>
       <div className={styles.hero}>
         <Image
-          src="./romantic-background.jpg"
+          src="./xammy.png"
           alt="Romantic Background"
           layout="fill"
           objectFit="cover"
